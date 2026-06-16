@@ -1,4 +1,4 @@
-# Codeveda-Internship
+# Codveda-Internship
 
 This Repository contains all projects completed durign my Internship at Codveda Technology
 
