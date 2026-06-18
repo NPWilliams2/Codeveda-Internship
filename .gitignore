@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio generated files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.idb
+*.tlog
+*.vcxproj.user
+
+# Windows
+Thumbs.db
+Desktop.ini
